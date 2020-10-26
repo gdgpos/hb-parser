@@ -1,0 +1,375 @@
+{
+  "2020-10-16": {
+    "date": "2020-10-16",
+    "dateReadable": "October 16th",
+    "timeslots": [
+      {
+        "endTime": "14:15",
+        "sessions": [
+          {
+            "items": [
+              "100"
+            ]
+          }
+        ],
+        "startTime": "14:00"
+      },
+      {
+        "endTime": "14:15",
+        "sessions": [
+          {
+            "items": [
+              "100"
+            ]
+          }
+        ],
+        "startTime": "14:00"
+      },
+      {
+        "endTime": "14:45",
+        "sessions": [
+          {
+            "items": [
+              "110"
+            ]
+          }
+        ],
+        "startTime": "14:15"
+      },
+      {
+        "endTime": "15:15",
+        "sessions": [
+          {
+            "items": [
+              "120"
+            ]
+          }
+        ],
+        "startTime": "14:45"
+      },
+      {
+        "endTime": "16:00",
+        "sessions": [
+          {
+            "items": [
+              "130"
+            ]
+          }
+        ],
+        "startTime": "15:15"
+      },
+      {
+        "endTime": "16:15",
+        "sessions": [
+          {
+            "items": [
+              "140"
+            ]
+          }
+        ],
+        "startTime": "16:00"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
+  },
+  "2020-10-17": {
+    "date": "2020-10-17",
+    "dateReadable": "October 17th",
+    "timeslots": [
+      {
+        "endTime": "11:05",
+        "sessions": [
+          {
+            "items": [
+              "200"
+            ]
+          }
+        ],
+        "startTime": "11:00"
+      },
+      {
+        "endTime": "11:55",
+        "sessions": [
+          {
+            "items": [
+              "210"
+            ]
+          }
+        ],
+        "startTime": "11:05"
+      },
+      {
+        "endTime": "12:25",
+        "sessions": [
+          {
+            "items": [
+              "220"
+            ]
+          }
+        ],
+        "startTime": "11:55"
+      },
+      {
+        "endTime": "12:55",
+        "sessions": [
+          {
+            "items": [
+              "230"
+            ]
+          }
+        ],
+        "startTime": "12:25"
+      },
+      {
+        "endTime": "13:40",
+        "sessions": [
+          {
+            "items": [
+              "240"
+            ]
+          }
+        ],
+        "startTime": "12:55"
+      },
+      {
+        "endTime": "14:05",
+        "sessions": [
+          {
+            "items": [
+              "260"
+            ]
+          }
+        ],
+        "startTime": "13:40"
+      },
+      {
+        "endTime": "14:35",
+        "sessions": [
+          {
+            "items": [
+              "270"
+            ]
+          }
+        ],
+        "startTime": "14:05"
+      },
+      {
+        "endTime": "15:05",
+        "sessions": [
+          {
+            "items": [
+              "280"
+            ]
+          }
+        ],
+        "startTime": "14:35"
+      },
+      {
+        "endTime": "03:35",
+        "sessions": [
+          {
+            "items": [
+              "290"
+            ]
+          }
+        ],
+        "startTime": "15:05"
+      },
+      {
+        "endTime": "04:05",
+        "sessions": [
+          {
+            "items": [
+              "299"
+            ]
+          }
+        ],
+        "startTime": "05:35"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
+  },
+  "2020-10-18": {
+    "date": "2020-10-18",
+    "dateReadable": "October 18th",
+    "timeslots": [
+      {
+        "endTime": "11:05",
+        "sessions": [
+          {
+            "items": [
+              "300"
+            ]
+          }
+        ],
+        "startTime": "11:00"
+      },
+      {
+        "endTime": "11:35",
+        "sessions": [
+          {
+            "items": [
+              "310"
+            ]
+          }
+        ],
+        "startTime": "11:05"
+      },
+      {
+        "endTime": "12:25",
+        "sessions": [
+          {
+            "items": [
+              "320"
+            ]
+          }
+        ],
+        "startTime": "11:35"
+      },
+      {
+        "endTime": "12:55",
+        "sessions": [
+          {
+            "items": [
+              "330"
+            ]
+          }
+        ],
+        "startTime": "12:25"
+      },
+      {
+        "endTime": "13:25",
+        "sessions": [
+          {
+            "items": [
+              "340"
+            ]
+          }
+        ],
+        "startTime": "12:55"
+      },
+      {
+        "endTime": "13:45",
+        "sessions": [
+          {
+            "items": [
+              "350"
+            ]
+          }
+        ],
+        "startTime": "13:25"
+      },
+      {
+        "endTime": "14:15",
+        "sessions": [
+          {
+            "items": [
+              "360"
+            ]
+          }
+        ],
+        "startTime": "13:45"
+      },
+      {
+        "endTime": "14:35",
+        "sessions": [
+          {
+            "items": [
+              "370"
+            ]
+          }
+        ],
+        "startTime": "14:15"
+      },
+      {
+        "endTime": "15:05",
+        "sessions": [
+          {
+            "items": [
+              "380"
+            ]
+          }
+        ],
+        "startTime": "14:35"
+      },
+      {
+        "endTime": "16:05",
+        "sessions": [
+          {
+            "items": [
+              "390"
+            ]
+          }
+        ],
+        "startTime": "15:05"
+      },
+      {
+        "endTime": "16:10",
+        "sessions": [
+          {
+            "items": [
+              "400"
+            ]
+          }
+        ],
+        "startTime": "16:05"
+      },
+      {
+        "endTime": "13:00",
+        "sessions": [
+          {
+            "items": [
+              "500"
+            ]
+          }
+        ],
+        "startTime": "13:00"
+      },
+      {
+        "endTime": "13:00",
+        "sessions": [
+          {
+            "items": [
+              "510"
+            ]
+          }
+        ],
+        "startTime": "13:00"
+      },
+      {
+        "endTime": "13:00",
+        "sessions": [
+          {
+            "items": [
+              "520"
+            ]
+          }
+        ],
+        "startTime": "13:00"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
+  },
+  "2020-10-extra": {
+    "date": "2020-10-extra",
+    "dateReadable": "October 17th",
+    "timeslots": [],
+    "tracks": [
+      {
+        "title": "DevFest 2020"
+      }
+    ]
+  }
+}

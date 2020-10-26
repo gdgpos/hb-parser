@@ -1,0 +1,707 @@
+{
+  "akeem": {
+    "bio": "I am an entrepreneur at heart that is excited about using technology to transform the way we live. I believe in fostering the local developer community and I've begin the opportunity to participate in past GDG events as presenter and panelist. ",
+    "company": "Wepala Limited",
+    "country": "Trinidad & Tobago",
+    "name": "Akeem Philbert",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest-71724.appspot.com/o/akeem.jpeg?alt=media&token=a80a2230-1afd-4e3c-b4a1-fa764b526b43",
+    "shortBio": "I am the founder of Wepala and I believe everyone has great ideas, it's just a matter of who can execute ",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/aphilbert/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://ak33m.com/",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/wepala",
+        "name": "Github"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/kanundrum",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Founder",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 0
+  },
+  "carl_handy": {
+    "bio": "Carl Handy has led an impressive career as a Front-end Software Engineer and User Experience Designer (UXD) in his four years working in the tech industry. In 2020 he was recognized by Prismic, a San Francisco based SaaS company, for his contributions to their CMS platform.\n\nServing as Front-end Engineer and Lead UX Designer at IntellectStorm played a major role in honing the skills he has today. While there, he was afforded the opportunity to work on and lead projects in various industries including healthcare, fintech and education.\n\nCarl is also a Project Periwinkle Ambassador, LACNIC member and has founded his own companies namely Narawtiv, an art studio, and Kalpa, an experience design and development agency.\n\nWhen he’s not working, Carl enjoys writing poetry, digital painting and table tennis.",
+    "company": "Kalpa",
+    "country": "Guyana",
+    "name": "Carl Handy",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/carl.jpg?alt=media&token=fe3f7205-d8d0-4057-9e10-942c1cb92eb6",
+    "shortBio": "I'm a Frontend Engineer with a passion for Vuejs and designing intuitive user experiences. Throughout my 4 year career I've  worked on and led projects in various industries including healthcare, fintech and education.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "twitter.com/carlhandy18",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "kalpa.dev",
+        "name": "Website"
+      },
+      {
+        "icon": "website",
+        "link": "carlhandy.ga",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "linkedin.com/in/carlhandy",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Founder/CEO",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 1
+  },
+  "carlos_mota": {
+    "bio": "Hello all!\n\nI've been speaking for a couple years now, you can find some of the slides here:\n- https://speakerdeck.com/cmota\n\nAnd all the talks that I gave at my website:\n- https://www.cafonsomota.xyz/talks/",
+    "company": "WIT Software",
+    "country": "Portugal",
+    "name": "Carlos Mota",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/carlos.jpg?alt=media&token=74759e21-2f3e-4b8b-9816-842d5ef58293",
+    "shortBio": "Android tech lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/cafonsomota",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/cafonsomota/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://cafonsomota.xyz/",
+        "name": "Website"
+      }
+    ],
+    "title": "Lead Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 2
+  },
+  "deandrew_moore": {
+    "bio": "I have presented at a pass GDG meetup, and also at The Jamaican Developers event hosted by Oshane Bailey.",
+    "company": "UWI Mona, Student. Past Palisadoes Foundation",
+    "country": "Jamaican",
+    "name": "Deandrew Moore",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/deandrew.jpg?alt=media&token=f07585d1-0a2f-43dd-b04b-5e8912537b15",
+    "shortBio": "I am Deandrew Moore, a third year Computer Science Major and Economics Minor at the UWI Mona. I am from Manchester, Jamaica and attended the deCarteret College High School in Mandeville. I love soca parties, football, working out and coding. One of dream jobs is to work at Twitter or Netflix",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "https://github.com/Deandrew007",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "https://deandrewmoore.com/",
+        "name": "Website"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/_drewdon",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/deandrew-moore-38091a172/",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://www.instagram.com/_drew.don/",
+        "name": "Website"
+      }
+    ],
+    "title": "Flutter Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 3
+  },
+  "deenauth": {
+    "bio": "A Certified Conversational Artificial Intelligence (AI) Developer with 5 years’ experience in working on medium to large scale software projects both locally and internationally. I am a final year student at the University of London (Distance Learning) studying B.Sc. Computing and Information Systems. Currently, I am a Technology Developer II at V75 Inc, working primarily in the Oracle Development Space using APEX and associated technologies to build scalable enterprise applications for clients globally. Additionally, I build and deploy Conversational AI Virtual Assistants using both proprietary and open source technologies like DialogFlow. I have an increased interest in Database Management, particularly in the scalability and optimization of data using Machine Learning techniques along with researching the expansion of Automatic Speech Recognition Systems (ASRs) to support the Caribbean Dialect in order for Virtual Assistants play a bigger role in our society. ",
+    "company": "V75 Inc.",
+    "country": "Guyana",
+    "name": "Deenauth Mohabeer",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/deeunauth.jpg?alt=media&token=296d08f4-d42e-4901-bb96-e1a715ecfdb9",
+    "shortBio": "A Conversational AI Specialist who loves Oracle. ",
+    "socials": [
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/AkashMohabeer/",
+        "name": "Facebook"
+      },
+      {
+        "icon": "website",
+        "link": "https://gitlab.com/dm272",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/deenauth-mohabeer-0052b1135/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Technology Developer II",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 4
+  },
+  "irwin": {
+    "bio": "Irwin WIlliams is a professional software developer. He’s been building software for more than 16 years. \nFor the past several years, Irwin has worked with a number of researchers to provide technology-enabled solutions that brought their work to light. He’s worked in IoT, climate research and health-based application development. \nHe’s the Chief Software Engineer at Teleios Systems, one of the premier software companies in the region and he’s been developing his own firm, Aiomin Studios, with a goal to help explore the linkages between research and technology.\nIrwin and his wife have two beautiful daughters who teach him every day that the journey is best when it is shared.",
+    "company": "Teleios Systems",
+    "country": "Trinidad & Tobago",
+    "name": "Irwin Williams",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/irwin.png?alt=media&token=b5d78a17-7fa1-449d-b9cc-f46219e4cbf2",
+    "shortBio": "Hi, I'm a softwre engineer working in the industry for some years. I enjoy working with new technologies and seeing great presentations. ",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "Twitter: @iStarr",
+        "name": "Twitter"
+      },
+      {
+        "icon": "website",
+        "link": "Web: \thttps://www.irwinwilliams.com",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "LinkedIn: https://www.linkedin.com/in/irwinwilliams/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Chief Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 5
+  },
+  "janiqua": {
+    "bio": "I am a Vincentian junior frontend engineer at my company, after transitioning from being an experienced software engineer on a desktop application. In March 2020, I gave a lightning talk at Google UK about my journey into tech in front of 250 participants. https://events.withgoogle.com/iwd2020-london/speakers/ I have also spoken at in person events here in Belgium, as well as within my company, and even before that at UWI Cave Hill, and in SVG.",
+    "company": "Mediagenix",
+    "country": "St. Vincent & The Grenadines",
+    "name": "Janique-ka John",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/janique.jpg?alt=media&token=0e29d72c-ae4d-405e-8178-3c0b24b6efab",
+    "shortBio": "I am 29 years old, from St.Vincent and the Grenadines and a junior Frontend Engineer. I am currently based in Brussels.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "www.twitter.com/janiquekajohn",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/luvi",
+        "name": "Github"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/janiquekajohn/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Frontend Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 6
+  },
+  "joel_dean": {
+    "bio": "A seasoned Software Architect and Device Magician, Joel Dean is Jamaica’s very own tech mogul in the making. At 27 years old, he boasts over 10 years of experience building applications for iPhones, Android phones, and computers. Joel has built several tech startups and lead Android development efforts, providing solutions even in the most remote areas of the world. He has managed two of the world’s largest data collection platforms, deployed to more than 50 countries, in 40 languages, for more than 1.5 million users. Joel is now a Software Engineer at Automattic, the owner of the popular blogging platform WordPress that has over 135 million active websites reaching over a billion users per month. Joel Dean is an active member of the World Economic Forum’s Global Shapers and also the lead organizer for the Google Developers Group Kingston.",
+    "company": "Automattic",
+    "country": "Jamaica",
+    "name": "Joel Dean",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/joel.jpg?alt=media&token=bda79bd4-dfbe-4563-a8e5-5c5638e114d1",
+    "shortBio": "Joel Dean is a Senior Software Engineer at Automattic, the company behind WordPress.com, Tumblr & WooCommerce. He is an active organizer of GDG Kingston.",
+    "socials": [
+      {
+        "icon": "github",
+        "link": "https://github.com/jd-alexander",
+        "name": "Github"
+      }
+    ],
+    "title": "Senior Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 7
+  },
+  "khadine_singh": {
+    "bio": "Khadine has been at Google for 6+ years and currently works as a Quantitative User Experience (UX) Researcher at Google working on Google Maps. As a Quantitative UX Researcher, her role is to use data to make Google Maps better for users and to drive product excellence by enabling user-centered product measurement. Quantitative UX Researchers do this by leveraging skills in experimental design, statistical analysis, programming, and human-computer interaction to improve user experience. More specifically, Khadine works with teams to design and analyze experiments to test new concepts before launch, define success metrics and set up tracking for these metrics, and run custom research studies to understand user needs (think analyzing product logs data or running large-scale, representative surveys using methods like conjoint analysis). Khadine runs many internal \n\nBefore working on Google Maps, Khadine worked as a Quantitative UX Researcher with Google Search and as a Product Analyst with Google's in-house social science research team. She holds a degree in Mechanical Engineering with a minor in Statistics from Columbia University.\n\nAs a proud Trini, she is excited to see the tech scene flourishing in T&T and hopes to support this community however she can.",
+    "company": "Google",
+    "country": "Trinidad & Tobago",
+    "name": "Khadine Singh",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/khadine.jpg?alt=media&token=2600e3c3-189b-445c-923b-9805734984cc",
+    "shortBio": "Khadine hails from Trinidad and Tobago and is a 6+ year Googler working as a Quantitative UX Researcher on Google Maps. As a Quantitative UXR, her role is to analyze data to uncover insights and make Google Maps better for users and to drive product excellence by enabling user-centered product measurement.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/khadine-singh-5042b055/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Quantitative User Experience Researcher",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 8
+  },
+  "lashaun": {
+    "bio": "In a Digital Marketing landscape that is growing crowded daily, LaShaun Ramdin stands out as a true expert in the field. A graduate of Google Squared Online with a distinction in Digital Marketing, Mrs Ramdin is Certified in Google Analytics, AdWords - Search, Video, Mobile, Display and Digital Sales.\n\nA consummate sales professional with over 16 years experience, she understands that like sales, Digital Marketing is about building relationships and she uses that strength to deliver to her clients a tangible return on their investments. LaShaun has held talks on aspects of Digital Marketing in conjuction with the Trinidad and Tobago Chamber of Commerce, The University of the Southern Caribbean and Girls in ICT.\n\nAmong her achievements is establishing Loop News as the number one Caribbean online media platform in her role as Country Manager and helping to grow the brand across the region with sales responsibility for Barbados, Guyana, Suriname, French West Indies and Trinidad and Tobago.  She currently heads up another online media house, IzzSo Media, as their Managing Director. \nA mother or two, she enjoys travel and spending time with her family.",
+    "company": "Ramdin Consultancy",
+    "country": "Trinidad & Tobago",
+    "name": "LaShaun Ramdin",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/LaShaun%20Ramdin.jpg?alt=media&token=cca3a03f-6959-49af-9e12-887225b6e72b",
+    "shortBio": "Excellent attention to detail with the ability to lead and influence at all decision making levels. Specialties: Digital Marketing, Digital Strategy, Advertising, Campaign performance, Sales Professional, Mobile advertising, SEO, Digital Media, Analytics, Social Media, Content Creation, Media Management, Customer service, Negotiations, Business Development and Social Media Training. ",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/lashaunramdin/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Ramdin Consultancy",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 9
+  },
+  "liza_layne": {
+    "bio": "Profile\nLiza Layne\nLead Data & Analytics Manager @ Eurostar International Ltd\nChapter Point of Contact AnitaB.org London\nCo-Chair Mid-career committee\n\nShe is an experienced Technical Strategic leader of BI & Analytics, awarded for delivering solutions for-profit and government organisations. With over 15 years of working Data teams  has seen her become a known champion and advocate for inclusion and diversity in tech. Currently working at Eurostar International Ltd as a Lead Data & Analytics Manager and is also an active member of its Inclusion and diversity committee. With a degree in Computing and a master’s in Business Intelligence and Analytics, saw her start a career in Tech by working in financial services as a Support Analyst and eventually on a path of working in Business Intelligence and Data Analytics.\n\nHer support of driving for inclusion started by being one of the founders of a London Credit Union serving as a Director, holding the posts of General Secretary and Compliance Officer from 2009 to 2011.\n\nJoining AnitaB.org in 2017 as a volunteer, has driven her to forge growth in AnitaB.org’s London Chapter which led to being invited to speak at AnitaB.org  Grace Hopper Celebration (GHC), the world's largest gathering of women technologists in 2018 and 2019.\n\nHer vision is to empower women to get into tech and stay in there! She is an active member of AnitaB.org volunteer communities serving as joint-conference chair for the 2019  AnitaB.org London Hopper x1, Chapter Point of Contact for AnitaB.org London, inaugural member AnitaB.org's Membership Mid-Career committee and GHC Data Science CFP reviewer.\n\n\n\nAnitaB.org Presents: Building an Antiracist Society Part 1& 2 Recording and Resources - https://anitab.org/news/announcements/anitaborg-presents-building-an-antiracist-society-part-2-recording-and-resources/  Panel Discussion\n\n\nGrace Hopper Celebration 2019 - Local Community - How can AnitaB.org's Volunteers Impact your Community Moderator for Panel Discussion https://drive.google.com/file/d/1kD40Ubi5-HOd2cSZHEBYdn75yBcTV72D/view?usp=sharing\n\nAnitaB.org Hopperx1 London 2019 - Back to the past: emulating RISC processor with Scala fall over - https://drive.google.com/file/d/1YuuKskKHzzGRnaS40GRgtqGTFlpW5koJ/view?usp=sharing\n\nGrace Hopper Celebration 2018: How Can Locals Impact your Community  Panel Discussion",
+    "company": "Eurostar International Ltd",
+    "country": "United Kingdom",
+    "name": "Liza Layne",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/liza.jfif?alt=media&token=3b14dcf4-e2a8-46f1-95e5-41306618a819",
+    "shortBio": "Liza is an experienced Technical Strategic leader of BI & Analytics for over 15 years has seen her become a known champion and advocate for inclusion and diversity in tech. Currently working at Eurostar International Ltd as a Lead Data & Analytics Manager and is also an active member of its Inclusion and diversity committee. Joining AnitaB.org in 2017 as a volunteer, has driven her to forge growth in AnitaB.org’s London Chapter and hHer vision is to empower women to get into tech and stay in there!",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "@lizalayne",
+        "name": "Website"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/lizalayne/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Lead Data & Analytics Manager",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 10
+  },
+  "maria_obrien": {
+    "bio": "Maria O'Brien is a lifelong volunteer. GDG Community Organizer, with a broad background in digital design and digital solutions consultancy gathered over 15 years of practice. She currently serves as the Lead Digital Designer at the Office of the Parliament of Trinidad and Tobago; Co-Director of MindWise Project- a mental health non profit focused on digital content creation and curation; and is the founder and Chief Innovation Officer of Design Change, a social change design firm selectively disrupting systems through targeted social innovation and sustainable development projects.\n\nThrough her roles, there is a focus on the Global Goals and the 2030 campaign. She hopes to contribute to the growth of a strong women techmaker community in Trinidad and Tobago, alongside advocating for and contributing meaningfully to better mental health and gender equality in the techmaker community, through healthier workplace practices in the way we as techmakers execute our work, and increasing the visibility of women techmakers locally, to opportunities and to each other.\n \nwww.linkedin.com/in/mdobrien\n \n\n",
+    "company": "Mindwise Project",
+    "country": "Trinidad & Tobago",
+    "name": "Maria OBrien",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/mariagdg.jpg?alt=media&token=66981aa8-8442-4d06-b3b8-23d47a29d979",
+    "shortBio": "Maria O'Brien is a lifelong volunteer. GDG Community Organizer, with a broad background in digital design and digital solutions consultancy gathered over 15 years of practice. She currently serves as the Lead Digital Designer at the Office of the Parliament of Trinidad and Tobago; Co-Director of MindWise Project- a mental health non profit focused on digital content creation and curation; and is the founder and Chief Innovation Officer of Design Change, a social change design firm selectively disrupting systems through targeted social innovation and sustainable development projects.",
+    "socials": [
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/mindwisett/",
+        "name": "Facebook"
+      }
+    ],
+    "title": "Director",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 11
+  },
+  "michael_dorka": {
+    "bio": "I participated as speaker and Mentor in DevFest and Google for Startups events during the last 4 years all over the world. ",
+    "company": "ank",
+    "country": "Argentina",
+    "name": "Michael Dorka",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/michael.jpg?alt=media&token=4da7f48e-59b6-4d98-81d3-3df74f8c4e8b",
+    "shortBio": "Currently responsible for research and design at ank,  a series A fintech start-up funded by Itaú Unibanco group. During the last 15 years I was creating and leading User Research and Design teams in start-ups and big corporates. Google supports me by letting me share my experiences as Google Developer Expert (GDE) and as mentor for spanish LATAM start-ups in the Google for startups program. I love living and working abroad as I did while researching in Tokyo and co-founding start-ups in Mexico City and creating great UX teams Buenos Aires. Funny date? More than half of my life I lived and worked abroad.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/michaeldorka/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Head of research",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 12
+  },
+  "nav_singh": {
+    "bio": "He is a professional Android developer. Apart from his day to day job, He spend his time to learn new technologies/frameworks. He is also an Organizer at GDG-Montreal.\nDuring his free he loves to watch Netflix, or you can find him at Gym.",
+    "company": "Manulife",
+    "country": "Canada",
+    "name": "Nav Singh",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/navesh.jpg?alt=media&token=416cb4c4-1766-40ac-86df-aa4e979fb3f9",
+    "shortBio": "Mobile software engineer at Manulife",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "@navczydev",
+        "name": "Website"
+      },
+      {
+        "icon": "website",
+        "link": "in/navczydev",
+        "name": "Website"
+      }
+    ],
+    "title": "Mobile Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 13
+  },
+  "nash": {
+    "bio": "#N/A",
+    "company": "#N/A",
+    "country": "#N/A",
+    "name": "#N/A",
+    "photoUrl": "#N/A",
+    "shortBio": "#N/A",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "#N/A",
+        "name": "Website"
+      }
+    ],
+    "title": "#N/A",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 14
+  },
+  "nicholas_mendez": {
+    "bio": "Nicholas Mendez is a Computer Science graduate, a freelance developer, and Organizer of GDG Port-of-Spain. Passionate in all things web, he has seen success in regional coding competitions such as WSIS Hack Against Hunger, Teleios Codejam, Developing Caribbean Code Sprint, and The Bmobile Innovation Challenge. He teaches Software Engineering and Web Technologies at University and specializes in Progressive Web Applications with a keen interest in performance, UX, and most recently Machine Learning.",
+    "company": "The University of the West Indies St. Augustine Campus",
+    "country": "Trinidad & Tobago",
+    "name": "Nicholas Mendez",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/nick.png?alt=media&token=39e8234a-98f9-4403-b4e3-856dfbe9b3d7",
+    "shortBio": "Instructor, Die hard web developer",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/snickdx",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/snickdx",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "https://nicholasmendez.dev",
+        "name": "Website"
+      }
+    ],
+    "title": "Instructor",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 15
+  },
+  "obika_gellineau": {
+    "bio": "I am a security professional with over ten years of experience with IT Security, Forensics and Software Development. I work as a cybersecurity consultant in Trinidad and Tobago, where I develop solutions for clients in the areas of cyber security, digital transformation and business continuity.",
+    "company": "N/A",
+    "country": "Trinidad & Tobago",
+    "name": "Obika Gellineau",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/obika.jpg?alt=media&token=c3d295d5-fca7-47df-a0dc-eb1e8615d051",
+    "shortBio": "I am a security professional with over ten years of experience with IT Security, Forensics and Software Development",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/obikag/",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Manager",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 16
+  },
+  "qarun": {
+    "bio": "Web Developer with close to 2 years experience in Angular, Node.js and Firebase. Interested in integrating software into many other fields to improve efficiency and reduce cost. \n\nI strive for clean, maintainable, reusable, testable code. I have not spoken at any conferences before, this is my first time.",
+    "company": "Caribbean Airlines Ltd.",
+    "country": "Trinidad & Tobago",
+    "name": "Qarun Qadir Bissoondial",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/qarun.jpg?alt=media&token=543e4159-ea24-4944-8b4f-bbb615638f07",
+    "shortBio": "Aspiring Web Developer with an eye for clean and testable code",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/QarunQB",
+        "name": "Twitter"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/Qarun-Qadir-Bissoondial",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "",
+        "name": "Website"
+      }
+    ],
+    "title": "Software Engineer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 17
+  },
+  "rodrigo": {
+    "bio": "With over 20 career in the IT Industry, Rodrigo Akira, better known as Akira, is the Developer Ecosystem Manager  for Latin America at Google. With a successful career on the biggest companies, Akira have worked at companies such as Microsoft and Amazon, Akira holding management positions in programs, sales, marketing, business development and startups.\nAlong his career, Akira had the opportunity to speak on many events across the globe such as Web Summit, SXSW, CASE, TechEd, re:Invent and TechCrunch Disrupt.",
+    "company": "Google",
+    "country": "Brazilian",
+    "name": "Rodrigo Akira Hirooka",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/akira.jpg?alt=media&token=038424e6-5ae6-4717-b641-e10ea3b12ed2",
+    "shortBio": "With over 20 career in the IT Industry,  Akira, is the Developer Ecosystem Manager  for Latin America at Google and have worked at the biggest tech companies such as Google, Microsoft and Amazon.",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/in/rakira",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Developer Ecosystem Regional Lead",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 18
+  },
+  "sherezz_grant": {
+    "bio": "Sherezz Grant is a geoscientist turned full-stack web developer living in Trinidad and Tobago. Motivated by the idea of using code to help solve some of life’s crucial problems, she prefers to work on meaningful projects that help society, such as developing the website for allWomen, the first all-women AI bootcamp in Barcelona helping to reduce the gender gap in tech, and ReliefTT, a website providing resources for persons affected by flooding or other disasters in Trinidad and Tobago. She currently works for a US-based non-profit called 350.org, an organisation focused on keeping fossil fuels in the ground. She has since spoken about her career experiences at International Girls in ICT Day, Microsoft DigiGirlz, PIVOT, a Women Techmakers Trinidad and Tobago event, and more. In her free time, she enjoys playing piano, singing, dancing and travelling.",
+    "company": "350.org",
+    "country": "Trinidad & Tobago",
+    "name": "Sherezz Grant",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/sherezz.jpeg?alt=media&token=038ec8c2-9a66-49e0-a6e7-24d739d528cd",
+    "shortBio": "A web developer motivated to make meaningful impact through code.",
+    "socials": [
+      {
+        "icon": "website",
+        "link": "https://www.twtitter.com/rezziemaven",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://www.github.com/rezziemaven",
+        "name": "Github"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/sherezz",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://rezziemaven.com",
+        "name": "Website"
+      }
+    ],
+    "title": "Web Developer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 19
+  },
+  "lyse": {
+    "bio": "I was a tutor at Ayitic goes Global where I could get lot of experience in speaking and sharing.\nI was also a tutor for School of Data in Tanzania where we were promoting Data Literacy.",
+    "company": "GDG Port-au-Prince",
+    "country": "Haïti",
+    "name": "Ladouceur Lyse",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/lyse.jpg?alt=media&token=5d016695-a170-4b51-bae2-a27b9c4bee3d",
+    "shortBio": "Coder - Developer From Haïti. Curious, passionate about programming, always looking for new challenges, willing to share what she knows.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.comlyse-ladouceur-29a5ba120",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Co-Organizer",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 20
+  },
+  "aggrey": {
+    "bio": "On the surface, Aggrey Marsh is a software developer and system engineer with over 10 years of experience working in the Caribbean from as far north as the Bahamas then across to Dominica, Antigua , Barbados Trinidad and of course his home country of  Guyana.\n\nHe has worked on region-wide projects for the likes of Sybase , Google , ITU just to name a few . He has been asked to sit on expert panels and present by Economic Commission for Latin America and the Caribbean, canto, Google.\n\nHe also has volunteered his time to help the Guyana robotics team annually for the last 3 years prepare for the international competition. He also Gives his time to the Guyanese student association and other organizations that do work in areas that align with areas he is focused on. He is also trained in rapid damage assessment by Caribbean emergency and disaster management agency and volunteer to deploy to any caricome country that may need help post a disaster. \n\nMore than his role in the technology industry in Guyana the Caribbean as a wider region he has been vocal about Guyana devolvement in the ICT sector. One of those ideas is how TAX incentives can boat the ICT sector and bring foreign investment to the country in at pubic forum so much so that the finance minister has given him an audience to discuss this and other topics around the ICT sector like e-commerce, blockchain, cryptocurrencies and most recently the need for internet exchange points as a pillar for a connected and resilient Guyana etc . \n\n",
+    "company": "Issachar and associates - GDG Georgetown ",
+    "country": "Guyana",
+    "name": "Aggrey Marsh",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/aggrey.jpg?alt=media&token=68ef06e2-b2d5-4604-8960-c46590ea9794",
+    "shortBio": "On the surface, Aggrey Marsh is a software developer and system engineer with over 10 years of experience working in the Caribbean from as far north as the Bahamas then across to Dominica, Antigua , Barbados Trinidad and of course his home country of  Guyana.",
+    "socials": [
+      {
+        "icon": "facebook",
+        "link": "https://www.facebook.com/aggreymarsh",
+        "name": "Facebook"
+      }
+    ],
+    "title": "Lead",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 21
+  },
+  "anil_ramnanan": {
+    "bio": "Anil Ramnanan is a Systems Administrator at the University of the West Indies Open Campus with the responsibilities of managing the organisiation’s Learning Management Systems. He is a Graduate of the University of the West Indies with an MPhil in Computer Science and has served as a Director of the Trinidad and Tobago Computer Society. He has extensive experience in the area of Open Source Software, web and mobile development. His interest also includes vision using OpenCV and various computer vision APIs as well as  Internet of Things using hardware platforms such as the Raspberry Pi and Ardiuno.\n\nA Developer's Guide to Machine Learning and Computer Vision (2018)https://www.youtube.com/watch?v=TnuPoAYBJbk\n\nMoodle Moot UK (2010)\nMoodle Integration with Google Apps & The Open Campus Student Management System –Kevin Ramsoobhag, Anil Ramnanan (co-author) http://moodlemootuk2010.org.uk/videos/\n\nMoodle Moot Canada (July 2011)\nAuto grouping Enrollment plugin for Moodle 2.0 – Anil Ramnanan, Reiza Haniffhttp://www.wiziq.com/online-class/593412-auto-grouping-enrollment-plugin-for-moodle-2-0\n\nMoodle Moot Online (August 2011)\nAuto grouping Enrollment plugin for Moodle 2.0 – Anil Ramnanan, Reiza Haniff http://www.wiziq.com/online-class/593412-auto-grouping-enrollment-plugin-for-moodle-2-0\n\nMoodle Moot Canada 2013 Moodle workshop for teaching EFL ||Moodle: Integrating external application with web services – Anil Ramnanan",
+    "company": "The University of the West Indies Open Campus",
+    "country": "Trinidad & Tobago",
+    "name": "Anil Ramnanan",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdgpos-devfest19.appspot.com/o/anil.jpg?alt=media&token=c4b923f8-fe46-4061-9b08-1300a691d702",
+    "shortBio": "Anil Ramnanan is a developer, systems administrator and techie that dabbles in IoT, Machine Learning and other weird things.",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "/twitter.com/anilramnanan",
+        "name": "Twitter"
+      }
+    ],
+    "title": "Learning Management Systems Administrator",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 22
+  },
+  "rishit_dagli": {
+    "bio": "Rishit Dagli is a grade 11 student and is a TEDx, TED-Ed Speaker. To share his knowledge with everyone he mentors at TensorFlow UserGroup Mumbai and organizes groups Global AI Mumbai and Kotlin Mumbai and is an international speaker. He also works as a Google AI ExploreML facilitator. He is also interested in research and has published multiple research papers in the field of AI and Maths. He has also represented his country in various Hackathons and competitions and even won a few while representing his country.\n\nMore about his past talks can be found at https://www.rishit.tech/talks",
+    "company": "Narayana School",
+    "country": "India",
+    "name": "Rishit Dagli",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/rishit.jfif?alt=media&token=e542b51b-4e4d-4809-bd55-1699bebec739",
+    "shortBio": "TEDx, TED-Ed Speaker",
+    "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/rishit_dagli",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/rishit-dagli",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "https://medium.com/@rishit.dagli",
+        "name": "Website"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/Rishit-dagli",
+        "name": "Github"
+      },
+      {
+        "icon": "website",
+        "link": "https://stackoverflow.com/users/11878567/rishit-dagli",
+        "name": "Website"
+      }
+    ],
+    "title": "Student",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 23
+  },
+  "felipe": {
+    "bio": "I've designed applications in Google Cloud environments using managed and non-managed services including but not limited to Google Appengine, Google Compute Engine, Google Kubernetes Engine and Cloud Run.\nI've used Docker Containers to create scalable and distributed cloud solutions powered by continuous integration, continuous delivery and continuous deployment. Fetching code from GitHub or google's own Cloud Repositories, building the production artefacts with Cloud builds or directly by using Jenkins Pipelines and deploying to Google's computing options. I always pursue flexible solutions that provide scalability for cost reduction and availability in case spikes on traffic occur.\n\n2 times certified in Google cloud (architect and cloud engineer) and Kubernetes certified administrator.\nI'm also a Google Developer Expert on Cloud technologies, which means that I'm an active contributor to the tech-cloud communities in Colombia and abroad . Please have a look at my medium profile for more information.",
+    "company": "Globant ",
+    "country": "Colombian ",
+    "name": "Juan Felipe Luján ",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/felipe2.jfif?alt=media&token=bb095feb-3763-472c-af7a-9bafe8c8148c",
+    "shortBio": "Js developer with extensive experience in cloud architecture and kubernetes. Certified cloud engineer and architect in GCP and Kubernetes Administrator ",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/felipelujan",
+        "name": "LinkedIn"
+      }
+    ],
+    "title": "Web UI engineer ",
+    "pronouns": "",
+    "featured": true,
+    "companyLogoUrl": "",
+    "companyLogo": "",
+    "photo": "",
+    "order": 24
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "100": {
+    "complexity": "Beginner",
+    "description": "The Opening of the event",
+    "speakers": [
+      "nicholas_mendez"
+    ],
+    "tags": [
+      "opening"
+    ],
+    "title": "Introduction and Opening",
+    "language": "English"
+  },
+  "110": {
+    "complexity": "Beginner",
+    "description": "Overview of the open source development of Caribbean Virus Tracker project. This session will discuss the approach, the tech stack, the issues faced and future developments of the project.",
+    "speakers": [
+      "obika_gellineau"
+    ],
+    "tags": [
+      "javascript'",
+      "'python'",
+      "'open source'",
+      "'covid-19'"
+    ],
+    "title": "Open Source during COVID-19: A lesson about the Caribbean Virus Tracker",
+    "language": "English"
+  },
+  "120": {
+    "complexity": "Beginner",
+    "description": "Just about when the COVID situation was evolving into a pandemic, a journalist contacted me lamenting the fact they as journalists, would have to go to Johns Hopkins site and manually sum up the Caribbean relevant data. Armed with the link to the open Johns Hopkins data, it quickly became clear that what they needed could easily be built. Several months later, the code and features have evolved. In this lightning talk I would walk through my tech stack (React.js), parsing the CSV from Johns Hopkins and deployment. If time permits, I can talk a bit about deciding to make this map open source.",
+    "speakers": [
+      "janiqua"
+    ],
+    "tags": [
+      "javascript",
+      " COVID"
+    ],
+    "title": "caricovidmap, making caribbean focused information more accesible.",
+    "language": "English"
+  },
+  "130": {
+    "complexity": "Intermediate",
+    "description": "Listen, COVID19 hit us like a ton of bricks. It's a pandemic. We're on various forms of lockdown - officially or not. I've built some chatbots that help with managing a bit of my work life that I'd love to share. They help with working together at home, balance and even engagement. ",
+    "speakers": [
+      "irwin"
+    ],
+    "tags": [
+      "chatbots",
+      " cloud",
+      " calling",
+      " work",
+      " covid19"
+    ],
+    "title": "Agents of TEAMS",
+    "language": "English"
+  },
+  "140": {
+    "complexity": "Advanced",
+    "description": "Data engineering roles are in high demand, yet the number of women in manager or leadership roles has no shifted. As a hiring manager I will give you insight into how tailor your application to go for the manager role, what hiring managers look for in applicant, how to highlight your skills as a leader.",
+    "speakers": [
+      "liza_layne"
+    ],
+    "tags": [
+      "Data Engineer'",
+      "'IC'",
+      "'Manager'"
+    ],
+    "title": "Level up from IC Data Engineer to Data Manager?",
+    "language": "English"
+  },
+  "200": {
+    "complexity": "Beginner",
+    "description": "The opening of Day 2",
+    "speakers": [
+      "aggrey"
+    ],
+    "tags": [
+      "opening"
+    ],
+    "title": "Day 2 Opening",
+    "language": "English"
+  },
+  "210": {
+    "complexity": "Intermediate",
+    "description": "Android 11 is the eleventh major release and the 18th version of the Android mobile operating system. It was released on September 8, 2020. I will be diving into the latest features that have been brought to the operating system for users and developers alike. ",
+    "speakers": [
+      "joel_dean"
+    ],
+    "tags": [
+      "android'",
+      "'mobile'"
+    ],
+    "title": "Let's Talk Android 11 ",
+    "language": "English"
+  },
+  "220": {
+    "complexity": "Beginner",
+    "description": "In this talk I will go through the new api which helps to get user feedback within the app without interrupting the user. I will cover the concepts as well as implementation including testing.",
+    "speakers": [
+      "nav_singh"
+    ],
+    "tags": [
+      "android ux mobile feedback"
+    ],
+    "title": "Get user's feedback using InAppReview API",
+    "language": "English"
+  },
+  "230": {
+    "complexity": "Intermediate",
+    "description": "For several years now, that we’ve been trying to find new solutions on how we could develop a single project and run it on all platforms. We’ve been seeing all types of solutions: some are web-based, others require you to learn a new language, and others even may require that you pay a monthly fee to use. It also comes with the drawback that all your UI depends on the framework implementation. So, if there’s a native update you’ll need to wait until someone rewrites the widgets for you to update your app.\r\n\r\nKotlin multiplatform gives us a new solution. It focuses on sharing your business logic across all platforms, leaving the UI to be implemented natively. Since it’s Kotlin, you can take full advantage of its language features - concise, safe, etc. Moreover, if you’re coming from android you might already be familiarised with Kotlin and even if you’re an iOS developer you’ll see that it’s quite similar to Swift.\r\n\r\nJoin me on this triathlon and let’s go through Android, iOS, and Web in under 30 minutes.",
+    "speakers": [
+      "carlos_mota"
+    ],
+    "tags": [
+      "Android",
+      " iOS",
+      " Kotlin",
+      " KMM"
+    ],
+    "title": "A Multiplatform triathlon: Kotlin through Android, iOS and Web",
+    "language": "English"
+  },
+  "240": {
+    "complexity": "Beginner",
+    "description": "Kotlin Multiplatform is here to stay! We start to see several products in production that are already migrating part of their code/ implementing new features with KMP. The goal here is simple, develop your application logic once and use it on every platform.\r\n\r\nSo join me on the next two hours on this multiplatform adventure and let’s create an app for android and iOS.",
+    "speakers": [
+      "carlos_mota"
+    ],
+    "tags": [
+      "Android",
+      " iOS",
+      " Kotlin",
+      " KMM"
+    ],
+    "title": "A Multiplatform Adventure!",
+    "language": "English"
+  },
+  "260": {
+    "complexity": "Intermediate",
+    "description": "Chances are if you've ever had to parse some data from an endpoint you were using a RESTFUL API, as it's been around for many years and is widely used. GraphQL was created by Facebook and made available for public use in 2015. It gives you the power of requesting the exact data you need from a server in a single query and receive it in a JSON object; whereas in REST you have to make requests to multiple endpoints in gathering data. This take we will jump straight into GraphQl and how to use it in Flutter",
+    "speakers": [
+      "deandrew_moore"
+    ],
+    "tags": [
+      "flutter'",
+      " 'dart'",
+      " 'graphql'",
+      " 'mobile-technologies'"
+    ],
+    "title": "Introduction to GraphQL in Flutter",
+    "language": "English"
+  },
+  "270": {
+    "complexity": "Intermediate",
+    "description": "The concept of having a framework for a framework seemed a bit strange and unnecessary to me at first, but as my applications grew in complexity some things became harder to manage and nuxt took some of the pains away.",
+    "speakers": [
+      "carl_handy"
+    ],
+    "tags": [
+      "javascript'",
+      " 'vuejs'",
+      " 'nuxtjs'",
+      " 'web development'"
+    ],
+    "title": "NuxtJS: the savior of Vue.js development",
+    "language": "English"
+  },
+  "280": {
+    "complexity": "Beginner",
+    "description": "Progressive Web Applications are fastly gaining support and traction in modern web development. However, with so many entry points (from a frameworks, cli tool, library) what is the easiest way to get started? This presentation will outline the core attributes of a pwa and a code-lab in converting a simple web app into a PWA.",
+    "speakers": [
+      "nicholas_mendez"
+    ],
+    "tags": [
+      "PWA'",
+      " 'Service Worker'",
+      " 'Workbox'",
+      " 'Web Development'"
+    ],
+    "title": "Head First into PWA's",
+    "language": "English"
+  },
+  "290": {
+    "complexity": "Intermediate",
+    "description": "Traditional methods of interacting, such as keyboards, mouse and multi-touch screens are now being accompanied, and to some degree, replaced by natural language-based interactions in the form of “conversational experiences”. This relatively new form of interaction is driven by Conversational Artificial Intelligence (AI). Conversational AI is already impacting industries by creating “human-like” exchanges between end-users and software systems and presents a promising role in evolving how humans interact with computer systems in the future. However, given this uptrend of adopting Conversational AI, the world of Management Information Systems remains untouched by this phenomenon. In this talk, we will be looking at way to integrate and build MIS based tasks into a virtual assistant using DialogFlow to figure out the question...can the interaction between humans and Management Information Systems be changing?",
+    "speakers": [
+      "deenauth"
+    ],
+    "tags": [
+      "chatbots'",
+      " 'conversational_ai'",
+      " 'conversational_artificial_intelligence'",
+      " 'dialogflow'",
+      " 'asr'"
+    ],
+    "title": "Conversational AI and Management Information Systems. Is there a new mode of interaction coming?",
+    "language": "English"
+  },
+  "299": {
+    "complexity": "Beginner",
+    "description": "A talk with a panel of speakers",
+    "speakers": [
+      "maria_obrien"
+    ],
+    "tags": [
+      ""
+    ],
+    "title": "Panel Talk Session",
+    "language": "English"
+  },
+  "300": {
+    "complexity": "Beginner",
+    "description": "The Opening of Day 3",
+    "speakers": [
+      "aggrey"
+    ],
+    "tags": [
+      "opening"
+    ],
+    "title": "Day 3 Opening",
+    "language": "English"
+  },
+  "310": {
+    "complexity": "Advanced",
+    "description": "How Analythics Drive decisions",
+    "speakers": [
+      "lashaun"
+    ],
+    "tags": [
+      "Digital Marketing"
+    ],
+    "title": "Digital Marketing",
+    "language": "English"
+  },
+  "320": {
+    "complexity": "Beginner",
+    "description": "How do you build a product that users will use and love? How do you build a product that is usable and useful? How do you build a product that makes users' lives easier and/or better? How do you uncover users' needs? How do you incorporate users and their needs into your design process? How do you make sure users are central to your design process? How do you involve the entire team (engineers, too!) in this user-centered design process? And ultimately, how do you measure whether your product is successful or not?\r\n\r\nCome to this talk if you want to learn more about the questions above and start the discussion of user-centered design for the Caribbean Developer community!",
+    "speakers": [
+      "khadine_singh"
+    ],
+    "tags": [
+      "designthinking'",
+      " 'metrics'",
+      " 'measurement'",
+      " 'ux'",
+      " 'research'",
+      " 'usercentereddesign'",
+      " 'successmetrics'"
+    ],
+    "title": "Design Thinking & Measuring Success",
+    "language": "English"
+  },
+  "330": {
+    "complexity": "Intermediate",
+    "description": "I will share with you insights about how you can run easily  relevant research in your company, no matter if a 5 people startup or a 10k people corporate. ",
+    "speakers": [
+      "michael_dorka"
+    ],
+    "tags": [
+      "UX",
+      " Research",
+      " Design Sprints",
+      " User testing",
+      " User interviews",
+      " product itteration"
+    ],
+    "title": "Research and product intelligence ",
+    "language": "English"
+  },
+  "340": {
+    "complexity": "Advanced",
+    "description": "Testing is an important part of the modern development workflow. Automated testing has gone from nice to have to a must know as organizations try to quickly iterate on the products that they are working on. In this session we will talk about the different types of tests and help shed light on the practical applications of code testing. ",
+    "speakers": [
+      "akeem"
+    ],
+    "tags": [
+      "tdd' 'ci' 'cd' 'testing' 'golang' 'javascript'"
+    ],
+    "title": "Pass The Test",
+    "language": "English"
+  },
+  "350": {
+    "complexity": "Intermediate",
+    "description": "Many developers know the benefits of Test-Driven Development but it is not always practised. This session will guide you on how to use the tools that come with Angular for testing common application functionality.  ",
+    "speakers": [
+      "qarun"
+    ],
+    "tags": [
+      "javascript'",
+      " 'angular'",
+      " 'testing'",
+      " 'typescript'"
+    ],
+    "title": "The Basics of Testing in Angular",
+    "language": "English"
+  },
+  "360": {
+    "complexity": "Beginner",
+    "description": "Integrating a development team into a company is no easy task. It involves a shift in mindset, technology and the willingness to step outside of the box for both management and the developers.\r\n \r\nJoin us as we take you through some of the hurdles and lessons learnt as we embarked on a journey to do just that!",
+    "speakers": [
+      "nevash"
+    ],
+    "tags": [
+      "development'",
+      " 'business'",
+      " 'management'"
+    ],
+    "title": "Business meets Development",
+    "language": "English"
+  },
+  "370": {
+    "complexity": "Beginner",
+    "description": "N/A",
+    "speakers": [
+      "sherezz_grant"
+    ],
+    "tags": [
+      "remote_work'",
+      " 'digital_nomad'"
+    ],
+    "title": "Going Remote",
+    "language": "English"
+  },
+  "380": {
+    "complexity": "Beginner",
+    "description": "Making any social innovation a reality involves multiple levels of experience and skills to create the ecosystem that will is sustainable, safe and trustworthy to the public that it will serve, and many of these skills lie outside of the development skillbase. \r\n\r\nThis is a talk about my experience completing Phase 1 of a major solution project with volunteers, local mental health service providers, and Regional health industry leaders to build a mental health platform to improve accessibility to mental health in our country in response to COVID-19 and other disasters.\r\n\r\nI will discuss why the new MVP we have developed will work BETTER than the more elaborate models intended before due to the trustworthiness and powerful community that has been created to support it and distribute it. ",
+    "speakers": [
+      "maria_obrien"
+    ],
+    "tags": [
+      "ux",
+      " web apps",
+      " user research",
+      " mental health"
+    ],
+    "title": "Where Opportunity Meets Intention- Building Social Solutions in the Caribbean",
+    "language": "English"
+  },
+  "390": {
+    "complexity": "Beginner",
+    "description": "A second talk with a panel of speakers",
+    "speakers": [
+      "rodrigo"
+    ],
+    "tags": [
+      "panel"
+    ],
+    "title": "Panel Talk Session 2",
+    "language": "English"
+  },
+  "400": {
+    "complexity": "Beginner",
+    "description": "Closing off the event",
+    "speakers": [
+      "nicholas_mendez"
+    ],
+    "tags": [
+      "closing"
+    ],
+    "title": "Event Closing",
+    "language": "English"
+  },
+  "500": {
+    "complexity": "Beginner",
+    "description": "When people thing of Chromebooks, they think of low powered laptops for kids to use at school with an OS that is just a browser. Can a developer use a Chromebook effectively? Should they? Let's find out.",
+    "speakers": [
+      "anil_ramnanan"
+    ],
+    "tags": [
+      "chromebook'",
+      " 'development'"
+    ],
+    "title": "My Chromebook and me. ChromeOS and the Developer",
+    "language": "English"
+  },
+  "510": {
+    "complexity": "Intermediate",
+    "description": "In this session, my major aim would be to provide an overview of the different tools one could use to power their Android apps with Machine Learning and also discuss the new additions for Machine Learning in Android 11 specifically the Model Binding Plugin and ML Kit. I would first go on to explain the standard procedure of using pre-trained models with MLKit. I would show how we could take the idea of MLKit forward and use pre-trained models from TensorFlow Hub to run right in the app, which would provide support to build high-quality machine learning apps based on models contributed from the community. I would then show how we could use custom TFLite models in Android apps, I would also talk about TensorFlow Model Maker and ML Model binding plugin in Android Studio through which I plan to show how easy it is to now use custom TF Lite models in Android apps. With Android 11 the NN API now supports Asymmetric integer weights making model sizes and inferences even smaller opening up an even larger opportunities for edge ML.\r\nIf time persists, I would also show demos about the above topics.  ",
+    "speakers": [
+      "rishit_dagli"
+    ],
+    "tags": [
+      "android11'",
+      " 'ml'",
+      " 'tensorflow'"
+    ],
+    "title": "Superpower your Android apps with ML: Android 11",
+    "language": "English"
+  },
+  "520": {
+    "complexity": "Intermediate",
+    "description": "We will review a few key facts about cloud run and pub/sub and then apply those concepts to engineer a scalable and resilient solution for a ficticios company. And deploy such solution to GCP ",
+    "speakers": [
+      "felipe"
+    ],
+    "tags": [
+      "Microservices cloud run pubsub node scalability demo"
+    ],
+    "title": "Resilient, scalable and asynchronous microservices with cloud run and pub/sub",
+    "language": "English"
+  }
+}

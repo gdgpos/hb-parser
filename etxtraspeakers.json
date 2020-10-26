@@ -1,0 +1,50 @@
+[
+  {
+    "kern_elliot": {
+      "bio": "Kern Elliott has over 15 years of IT experience in operations and application management. He holds a computing science degree from the University of Greenwich and received his Masters in Information Systems Management from the University of Liverpool. Kern has also acquired a range of technical skills, including proficiency in various programming languages, CMS software and database software.",
+      "company": "The National ICT Company of Trinidad and Tobago",
+      "country": "Trinidad & Tobago",
+      "name": "Kern Elliott",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/kern.jpg?alt=media&token=637a5a18-4e29-4fc5-a2a7-033fcc592201",
+      "shortBio": "Kern works with management.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/KernElliott",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Solutions Architect",
+      "pronouns": "",
+      "featured": true,
+      "companyLogoUrl": "",
+      "companyLogo": "",
+      "photo": "",
+      "order": 40
+    }
+  },
+  {
+  "nevash": {
+      "bio": "Nash is a Trinidadian Software Engineer and author with experience working on projects for both Enterprise and Startups.\nHe’s been an avid developer since summer 2017 and servers as the Lead Editor and admin of the Flutter Community Medium publication.",
+      "company": "The National ICT Company of Trinidad and Tobago",
+      "country": "Trinidad & Tobago",
+      "name": "Neevash Ramdial",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfestcarib.appspot.com/o/nash.png?alt=media&token=6727c925-a7d3-4718-82d2-eb4b963c1a36",
+      "shortBio": "Nash writes code.",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Nash0x7E2",
+          "name": "Twitter"
+        }
+      ],
+      "title": "Solutions Architect",
+      "pronouns": "",
+      "featured": true,
+      "companyLogoUrl": "",
+      "companyLogo": "",
+      "photo": "",
+      "order": 14
+  }
+  }
+]
